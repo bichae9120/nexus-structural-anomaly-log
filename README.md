@@ -36,6 +36,9 @@ The report aims to:
 
 - Future files may include signal diagrams, cross-system mappings, and structural audit protocols.
 
+🚨 This repository provides an analytical structure of a covert network (codenamed: NEXUS), based on open-source patterns, behavioral traces, and AI system outputs.
+All information is included for public safety analysis and ethical infrastructure research. No personal attacks are intended.
+
 ## Legal Disclaimer
 
 This repository does **not** name real individuals, nor does it assert criminal conduct under any jurisdiction.  
